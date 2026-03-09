@@ -1,0 +1,5 @@
+google-generativeai
+openai-whisper
+tqdm
+pandas
+openpyxl
